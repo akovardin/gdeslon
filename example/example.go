@@ -15,7 +15,7 @@ func init() {
 func main() {
 	client := gdeslon.NewClient(
 		"https://api.gdeslon.ru/api",
-		"c79d32affee0ccdbb778e9c200eddcdcd279dee6",
+		"xxx",
 	)
 
 	type Response struct {
